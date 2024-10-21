@@ -25,7 +25,7 @@ class LoginPage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              // Logo di atas
+              // Logo di atas test
               Image.asset(
                 'assets/logo.png', // Tempatkan logo UNDiknas di folder assets
                 height: 315,

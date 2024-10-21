@@ -28,7 +28,7 @@ class LoginPage extends StatelessWidget {
               // Logo di atas
               Image.asset(
                 'assets/logo.png', // Tempatkan logo UNDiknas di folder assets
-                height: 310,
+                height: 315,
               ),
               SizedBox(height: 20),
               
